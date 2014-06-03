@@ -1,12 +1,23 @@
 body{
     font-size: 16px;
     line-height: 1.3125;
+    font-family: 'gentonabook';
+}
+h3{
+    font-family: 'gentonathin';
+    font-size: 1.3125em;
+    line-height: 1;
+    margin: 2em 0;
 }
 p{
     line-height: 1.3125;
-    margin: 0 0 1.3125em 0;
+    margin: 1.3125em 0;
+}
+pre{
+    display: inline;
 }
 #page{
+    /*padding-top: 4em;*/
     width: 1200px;
     margin: 0 auto;
     background: url(../img/baseline.png);
