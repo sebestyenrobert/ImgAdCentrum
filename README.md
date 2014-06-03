@@ -1,5 +1,4 @@
-ImgAdCentrum
-============
+##ImgAdCentrum
 
 The ImgAdCentrum is a simple plugin, which fits the picture in the center of the parent element, which can be bigger or smaller than the picture. This is done with total filling  and without ditortion.
 
@@ -9,6 +8,6 @@ The ImgAdCentrum is a simple plugin, which fits the picture in the center of the
 
 ### Usage
 
-The plugin depends on [Velocity](https://github.com/julianshapiro/velocity)
+The plugin depends on [Velocity](https://github.com/julianshapiro/velocity).
 Use like all jQuery plugin: <pre>$("img").imgAdCentrum();</pre>
 
