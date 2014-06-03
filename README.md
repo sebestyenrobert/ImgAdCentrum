@@ -9,5 +9,6 @@ The ImgAdCentrum is a simple plugin, which fits the picture in the center of the
 
 ### Usage
 
+The plugin depends on [Velocity](https://github.com/julianshapiro/velocity)
 Use like all jQuery plugin: <pre>$("img").imgAdCentrum();</pre>
 
